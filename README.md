@@ -1,3 +1,3 @@
 # SuyashSingh01
-[![SuyashSing's GitHub | Stats](https://stats.quine.sh/SuyashSing/github?theme=light)](https://quine.sh)
-[![SuyashSing's GitHub | Stats](https://stats.quine.sh/SuyashSing/github?theme=dark)](https://quine.sh)
+[![SuyashSingh's GitHub | Stats](https://stats.quine.sh/SuyashSingh/github?theme=light)](https://quine.sh)
+[![SuyashSingh's GitHub | Languages Over Time](https://stats.quine.sh/SuyashSingh/languages-over-time?theme=light)](https://quine.sh)
